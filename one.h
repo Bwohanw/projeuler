@@ -1,6 +1,6 @@
 #pragma once
 
 
-int sum_multiples(int end);
+long sum_multiples(long end);
 
-int sum_multiples_mod(int end);
+long sum_multiples_mod(long end);
